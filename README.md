@@ -11,4 +11,4 @@ The pipeline is shown in `notebook/flow_visualization`, including:
 - Coutour plots for a given slice position
 - Animation
 
-The scripts of utility function are available in `scripts` folder.
+The scripts of utility function are available in `scripts` folder. The entire process can be executed by `python scripts/main.py`
